@@ -1,0 +1,33 @@
+BODY{
+    text-align: center;
+    background-image: url(bule..jpg);
+    background-size: cover;
+    
+}
+button{
+    margin:2px;
+    height:40px;
+    width:60px;
+    background-color:#eda28a;
+    color:rgb(10, 10, 10);
+    border-radius:15px;
+    box-shadow:2px 2px black;}
+.box{
+    padding: auto;
+    margin:auto;
+    text-align: center;
+    border-radius: 20px;
+    height:20em;
+    width:20em;
+    box-shadow:2px 2px 2px 2px black;
+    background-color: white;
+}
+input{
+    margin:2px;
+    height:40px;
+    width:150px;
+    background-color:white;
+    color:rgb(10, 10, 10);
+    border-radius:15px;
+    box-shadow:2px 2px black;
+}
